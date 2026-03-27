@@ -29,13 +29,13 @@
 
 ### DAU (Daily Active Users)
 
-![DAU](images/dau.png)
+![DAU](images/DAU.png)
 
 ---
 
 ### CTR (Click-Through Rate)
 
-![CTR](images/ctr.png)
+![CTR](images/CTR.png)
 
 ---
 
